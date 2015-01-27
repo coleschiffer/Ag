@@ -1,0 +1,55 @@
+
+.center {
+  text-align: center;
+}
+.right {
+  text-align:right;
+  right:0;
+}
+.left {
+  text-align:left;
+}
+.shead{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  font-size: 30px;
+  color: #4A4A4A;
+  line-height: 41px;
+/* Bootstrap, Git, Seo,: */
+}
+.bshead {
+font-family: 'Lato', sans-serif;
+font-weight: 700;
+font-size: 30px;
+color: #4A4A4A;
+line-height: 41px;
+/* Other:: */
+}
+.mhead {
+font-family: 'Lato', sans-serif;
+font-weight: 900;
+font-size: 48px;
+color: #4A4A4A;
+line-height: 66px;
+/* Talk to me:: */
+}
+.bhead {
+font-family: 'Lato', sans-serif;
+font-weight: 900;
+font-size: 72px;
+color: #;
+line-height: 98px;
+
+/* My Name is Cole: */
+}
+.dotline {
+    border-bottom: dotted 1px;
+    text-decoration: none;
+    color: #4A4A4A;
+  }
+  .dotline:hover {
+    text-decoration: none;
+    color: #4A4A4A;
+    border-bottom: solid 1px;
+
+  }
